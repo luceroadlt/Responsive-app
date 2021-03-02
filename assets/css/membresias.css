@@ -1,0 +1,49 @@
+body {
+    background: #333;
+     color: whitesmoke !important;
+
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #111;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white !important;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a{
+  font-family: serif;
+  color: yellow;
+  text-align: right !important;
+}
+
+.span_titulo{
+  color: yellow;
+  font-family: serif;
+  font-size: 40px;
+  text-align: center;
+}
+.label {
+
+}
+.section_form{
+    margin-left: 20px !important;
+}
+.div_form{
+        margin-left: 20px !important;
+
+}
+.table_section{
+  background-color: aliceblue;
+}
